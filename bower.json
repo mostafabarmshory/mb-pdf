@@ -1,0 +1,27 @@
+{
+	"version": "0.1.0",
+	"name": "mb-pdf",
+	"description": "Model PDF Viewer for AngularJS",
+	"homepage": "https://github.com/viraweb123/mb-pdf",
+	"authors": [
+		"Mostafa Barmshory <mostafa.barmshory@gmail.com>",
+		"Mohammad Hadi Mansouri <mohammad.hadi.mansouri@gmail.com>"
+	],
+	"moduleType": [],
+	"keywords": [
+		"pdf.js",
+		"AngularJS"
+	],
+	"license": "GNU",
+	"main": "dist/mb-pdf.js",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular": "1.8.x"
+	}
+}
